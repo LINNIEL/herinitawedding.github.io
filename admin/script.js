@@ -21,6 +21,7 @@ function buatLink(){
             let pesan =
 `Assalamu’alaikum Warahmatullahi Wabarakatuh
 Shalom
+Salam Sejahtera
 Om Swastiastu
 Namo Buddhaya
 Salam Kebajikan 🙏
@@ -34,7 +35,7 @@ ${link}
 Merupakan suatu kehormatan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir dan memberikan doa restu.
 
 Yang Berbahagia  
-Ugen & Ledy`;
+Heri & Nita`;
 
             hasil += `
 <div class="message-box">

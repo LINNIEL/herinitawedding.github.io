@@ -53,7 +53,7 @@
 
 
 .ayat {
-    font-size: 24px;
+    font-size: 20px;
     font-family: "Beau Rivage", cursive;
     color: var(--font-muted);
     margin-bottom: 20px;
@@ -62,7 +62,7 @@
 
 
 .kutipan_2 {
-    font-size: 32px;
+    font-size: 24px;
     font-family: "Beau Rivage", cursive;
     font-weight: normal;
     margin-top: 15px;
