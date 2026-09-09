@@ -60,9 +60,9 @@
 }
 
 .btn-calendar {
-    border: 1px solid #E8B4B8;
+    border: 2px solid #faf6f6;
     background: transparent;
-    color: #E8B4B8;
+    color: #f7f4f5;
     padding: 10px 20px;
     border-radius: 30px;
     font-family: 'Poppins', sans-serif;
@@ -72,8 +72,8 @@
 }
 
 .btn-calendar:hover {
-    background: #E8B4B8;
-    color: #fff;
+    background: #f5f3f3;
+    color: #020202;
     transform: translateY(-2px);
 }
 

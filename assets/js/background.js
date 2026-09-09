@@ -4,7 +4,7 @@
 
 const backgroundImages = [
 
-    "assets/bg/bg_1.jpg",
+    "assets/bg/cover.jpg",
     "assets/bg/bg_2.jpg",
     "assets/bg/bg_3.jpg",
     "assets/bg/bg_4.jpg",
