@@ -71,7 +71,14 @@
     object-fit:contain;
     flex-shrink:0;
     filter: drop-shadow(2px 4px 4px white);
-
+}
+.icon_2{
+    width:22px;
+    height:22px;
+    object-fit:contain;
+    flex-shrink:0;
+    filter: drop-shadow(2px 4px 4px rgb(0, 0, 0));
+    margin-right: 10px;
 }
 .jdwl{
     filter: drop-shadow(2px 2px 2px black);
