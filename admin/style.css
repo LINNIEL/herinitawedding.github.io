@@ -22,18 +22,36 @@ body {
    AREA APLIKASI
 ================================= */
 
-.app {
-    position: relative;
-
-    width: 400px;
-    max-width: 100%;
-    height: 100vh;
-
-    margin: 0 auto;
-
-    overflow: hidden;
+* {
+  box-sizing: border-box;
 }
 
+.app {
+  position: relative;
+  width: 400px;
+  max-width: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: center; /* tengah vertikal */
+  align-items: center;     /* tengah horizontal */
+
+  overflow: hidden;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  max-height: 100vh;
+
+  padding: 20px;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  z-index: 1;
+}
 /* =================================
    BACKGROUND
 ================================= */
@@ -60,22 +78,6 @@ body {
    CONTENT
 ================================= */
 
-.container {
-    position: relative;
-
-    width: 100%;
-    max-width: 400px;
-
-    height: 100vh;
-
-    margin: 0 auto;
-    padding: 20px;
-
-    overflow-y: auto;
-    overflow-x: hidden;
-
-    z-index: 1;
-}
 
 /* Scrollbar */
 
